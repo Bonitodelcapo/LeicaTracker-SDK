@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LMF.Tracker.SDK.PythonSampleProject", "LMF.Tracker.SDK.PythonSampleProject.pyproj", "{9342ACA6-22D7-4EC5-BF12-00614A3D1078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9342ACA6-22D7-4EC5-BF12-00614A3D1078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9342ACA6-22D7-4EC5-BF12-00614A3D1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7872FA2-E343-47B4-A084-FE8FF7ED013B}
+	EndGlobalSection
+	
+EndGlobal
